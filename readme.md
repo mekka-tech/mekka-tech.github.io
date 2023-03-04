@@ -225,7 +225,7 @@ If you're interested in purchasing this incredible project, please don't hesitat
 ### Gameplay
 
 <video width="320" height="240" controls>
-  <source src="/assets/Blackmoon 1.mp4" type="video/mp4">
+  <source src="https://github.com/mekka-tech/mekka-tech.github.io/blob/main/assets/Blackmoon%201.mp4" type="video/mp4">
 </video>
 
 ## Contact Information
