@@ -1,4 +1,4 @@
-theme: Slate
+remote_theme: hydecorp/hydejack@v9
 title: Mekka Tech
 description: Bookmark to see project offerings!
 markdown: GFM
