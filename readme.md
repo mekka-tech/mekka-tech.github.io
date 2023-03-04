@@ -218,9 +218,9 @@ If you're interested in purchasing this incredible project, please don't hesitat
 # Images & Videos
 
 ### Buildings
-![Buildings](/assets/e11.jpg)
-![Buildings](/assets/e22.jpg)
-![Buildings](/assets/e33.jpg)
+![Buildings](/assets/e11.png)
+![Buildings](/assets/e22.png)
+![Buildings](/assets/e33.png)
 
 ### Gameplay
 ![Buildings](/assets/Blackmoon 1.mp4)
