@@ -223,7 +223,11 @@ If you're interested in purchasing this incredible project, please don't hesitat
 ![Buildings](/assets/e33.png)
 
 ### Gameplay
-![Buildings](/assets/Blackmoon 1.mp4)
+
+<video width="320" height="240" controls>
+  <source src="/assets/Blackmoon 1.mp4" type="video/mp4">
+</video>
+
 ## Contact Information
 
 If you have any questions or concerns, please feel free to contact us at:
