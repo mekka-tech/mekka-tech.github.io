@@ -40,6 +40,7 @@ If you're interested in purchasing this incredible project, please don't hesitat
 | Voice Chat  | Component to communicate with other players  | Voice Comms | 1 | 100% |
 | Text Chat  | Component to communicate with other players  | Text Comms  | 1 | 100% |
 | Lands  | NFT land plot in the metaverse, buildings can be placed here.  | 3d model & Physics  | 6 | 100% |
+| Oculus Metaverse APP POC | Oculus VR app for metaverse Proof of Concept | Oculus APP  | 1 | 100% |
 | Unity Kitsuu NFT Integration | You can look at your kitsuu in 3d in the metaverse  | 3d model & Physics  | 1 | 100% |
 | Multiplayer Support PoC | You can interact with other players  | Networking | 1 | 100% |
 | Space Customization | You can Customize your space  | 3d | 1 | 100% |
