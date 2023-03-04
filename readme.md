@@ -6,7 +6,7 @@
 - [Assets](#assets)
 - [Services](#services)
 - [Smart Contracts](#smart-contracts)
-- [Images & Videos](#images-videos)
+- [Images & Videos](#images-&-videos)
 
 ## Introduction
 ### What is Blackmoon?
